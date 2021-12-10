@@ -122,7 +122,7 @@ nav ul li {
     color: #ffffff;
 }
 
-.benefit-box h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -144,4 +144,80 @@ footer {
 
 footer h2 {
     font-size: 20px;
+}
+
+
+/* BEGIN RESPONSIVE BREAKPOINTS */
+
+/* STYLES [TABLET] */
+@media (max-width: 1040px){
+
+    /* GLOBAL STYLES [TABLET] */
+
+    p {
+        font-size: 16px;
+    }
+
+    .float-left {
+        float: left;
+        margin-right: 25px;
+    }
+
+    .float-right {
+        float: right;
+        margin-left: 25px;
+    }
+
+    /* HEADER STYLES [TABLET] */
+
+    header h1 {
+        font-size: 24px;
+    }
+
+    /* TABLET NAV [TABLET]] */
+
+    nav {
+        padding-top: 5px;
+        margin-right: 10px;
+        font-size: 16px;
+    }
+
+    /* HERO STYLES [TABLET] */
+
+    .hero {
+        height: 400px;
+    }
+
+    /* CONTENT SECTION STYLES [TABLET] */
+
+    .content {
+        width: 74%;
+
+    }
+
+    .content h2 {
+        margin-bottom: 13px;
+        font-size: 24px; 
+    }
+
+    .content img {
+        max-height: 180px;
+    }
+
+    /* BENEFITS (SIDEBAR) SECTION STYLES [TABLET] */
+
+    .benefits h3 {
+        margin-bottom: 5px;
+    }
+
+    .benefits img {
+        max-width: 100px;
+    }
+
+    /* FOOTER STYLES */
+
+    footer h2 {
+        font-size: 15px;
+    }
+
 }
