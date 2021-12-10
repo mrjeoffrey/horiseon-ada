@@ -17,9 +17,20 @@ I consolidated repeated css attributes, reassigned classes to match semantic htm
 Brandname was originally "Horiseon", modified to "HoriSEOn" per client request.
 
 ## SCREENSHOTS
-1. Initial Lighthouse Report of HoriSEOn
+Initial Lighthouse Report of HoriSEOn
 ![Initial Lighthouse Report of HoriSEOn](/assets/screenshots/lighthouse-report-initial.png "Initial SEO/Accessibility Report of HoriSEOn") 
-2. Final Lighthouse Report of Landing Page
+
+| Performance | Accessibility | Best Practices | SEO |
+| :-------: | :-------: | :-------:  | :-------: |
+| 49 | 71 | 100 | 70 |
+
+
+Final Lighthouse Report of Landing Page
+![Final Lighthouse Report of HoriSEOn](/assets/screenshots/lighthouse-report-final.png "Final SEO/Accessibility Report of HoriSEOn")
+
+| Performance | Accessibility | Best Practices | SEO |
+| :-------: | :-------: | :-------:  | :-------: |
+| 100 | 100 | 100 | 90 |
 
 <br>
 
@@ -40,3 +51,4 @@ Brandname was originally "Horiseon", modified to "HoriSEOn" per client request.
 | [Markdown Styleguide](https://www.markdownguide.org/basic-syntax/) | Quick style guide on markdown syntax for README.md |
 | [Frequent Word Utility](https://www.online-utility.org/text/frequent_words.jsp) | Select all the text on a webpage and paste in this Frequent Word Utility to see which words are frequently used. Excellent tool to determine if SEO words are being used. |
 | [iloveimg Image Compressor](https://www.iloveimg.com/) | Image compression tool to reduce image size |
+| [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) | Checks contrast ratios of background / foreground colors. Use this tool to slightly modify colors to pass WCAG standard |
