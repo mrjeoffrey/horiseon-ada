@@ -1,6 +1,6 @@
 # PROJECT BRIEF
 
-Refactor an SEO landing page that is accessible, legible, and optimized for Search Engine Optimization. Responsibilities include fixing HTML and CSS errors, refactoring code to reduce file size, maintain look&feel of site to provided high fidelity mocks.
+Refactor an SEO landing page that is **accessible**, **legible**, and **optimized** for search engine optimization. Responsibilities include fixing HTML and CSS errors, refactoring code to reduce file size, maintain look&feel of site to provided high fidelity mocks.
   
   
 
@@ -21,11 +21,20 @@ Brandname was originally "Horiseon", modified to "HoriSEOn" per client request.
 ![Initial Lighthouse Report of HoriSEOn](/assets/screenshots/lighthouse-report-initial.png "Initial SEO/Accessibility Report of HoriSEOn") 
 2. Final Lighthouse Report of Landing Page
 
-## URLs
-Github Repo: 
-Deployed Page: 
+<br>
+
+
+## LIVE
+| DEPLOYMENT | URL | STATUS |
+| ---------- | --- | ------ |
+| Repository  | [github.com/mrjeoffrey/horiseon-ada](https://github.com/mrjeoffrey/horiseon-ada) |  ACTIVE 🟢   |
+| Published Page     | [mrjeoffrey.github.io/horiseon-ada](https://mrjeoffrey.github.io/horiseon-ada/) | ACTIVE 🟢  |
+   
+   <br>
 
 ## RESOURCES
-1. [SEO Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide)
-2. [WCAG 2.1 Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
-3. [Markdown Styleguide](https://www.markdownguide.org/basic-syntax/)
+| RESOURCE | DESCRIPTION |
+| -------- | ----------- |
+| [SEO Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide) | Documentation on optimizing a site for organic search by Google  |
+|[WCAG 2.1 Accessibility Guidelines](https://www.w3.org/TR/WCAG21/) | Complete documentation for Web Accessibility Standards V 2.1 from W3C |
+| [Markdown Styleguide](https://www.markdownguide.org/basic-syntax/) | Quick style guide on markdown syntax for README.md |
